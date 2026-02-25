@@ -1,3 +1,4 @@
+## SHARUN N (212223060257)
 # Gaussian-Pulse-Propagation
 # Broadening of Gaussian Pulses
 
@@ -38,8 +39,12 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 | | Length | 50 km |
 
 **Required Calculations:**
-<img width="1548" height="298" alt="image" src="https://github.com/user-attachments/assets/b2fb676a-afb0-48ef-914b-309b2ea38a17" />
+- RMS width of transmitted pulse (\(T_{in}\))  
+- RMS spectral width of transmitted pulse (\(\Delta \lambda\))  
+- RMS width of fiber impulse response (\(T_F\))  
+- RMS width of pulse at fiber far end (\(T_{out}\))  
 
+---
 
 ## Layout
 Place and connect the following components:
@@ -66,5 +71,9 @@ Compare the simulation results with the theoretical calculations and discuss any
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
+![WhatsApp Image 2026-02-13 at 7 16 23 PM](https://github.com/user-attachments/assets/eeaa4d1f-d7f5-422b-b0e3-2520485e6b4a)
+![WhatsApp Image 2026-02-13 at 7 16 23 PM (1)](https://github.com/user-attachments/assets/7a0d9176-d2ef-4a29-85b6-1c6646b81c7a)
 
 
+## Result
+Hence,the results predicted by the linear system model of an optical fiber with the results of simulation
