@@ -71,8 +71,10 @@ Compare the simulation results with the theoretical calculations and discuss any
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
-![WhatsApp Image 2026-02-13 at 7 16 23 PM](https://github.com/user-attachments/assets/eeaa4d1f-d7f5-422b-b0e3-2520485e6b4a)
-![WhatsApp Image 2026-02-13 at 7 16 23 PM (1)](https://github.com/user-attachments/assets/7a0d9176-d2ef-4a29-85b6-1c6646b81c7a)
+![WhatsApp Image 2026-03-11 at 10 18 41 AM](https://github.com/user-attachments/assets/48b29ce3-876c-405e-8e8d-d26b2df9e0d1)
+
+![WhatsApp Image 2026-03-11 at 10 20 04 AM](https://github.com/user-attachments/assets/1871255e-d92c-4e6f-a777-23dbbb6777c0)
+
 
 
 ## Result
